@@ -1,5 +1,5 @@
-# iterative_traffic_system
-Capstone 2 Project, part of the bachelor program of Telecommunications Technology Engineering
+# Iterative Traffic System
+#### Capstone 2 Project, part of the bachelor program of Telecommunications Technology Engineering
 
 This is 6 month project based on Arduino platform. The development of the software went through different stages till his final version. This code is prone to improvement
 but requires the meeting of many criterias
